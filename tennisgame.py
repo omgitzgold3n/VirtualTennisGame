@@ -1,8 +1,6 @@
 #Chris Golden
-#HW13
-#4/27/21
+#Date Completed: 4/27/21
 
-#A
 
 '''
 Purpose: Sets the variables and conditions that simulate gravity and the projectile motion
